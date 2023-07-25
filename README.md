@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ,Gunjan Surti</h1>
-<h3 align="center">Hello! I'm Gunjan Surti, a passionate blockchain developer with a strong background in developing decentralized applications (dApps) and smart contracts. I am fascinated by the transformative potential of blockchain technology and its ability to revolutionize various industries.I believe in the power of collaboration and welcome opportunities to work with diverse teams on innovative blockchain projects. If you have any exciting ideas or would like to collaborate, feel free to reach out!</h3>
+<h3 align="center">Hello! I'm Gunjan Surti, a passionate blockchain developer with a strong background in developing decentralized applications (dApps) and smart contracts.</h3><h3 align="center"> I am fascinated by the transformative potential of blockchain technology and its ability to revolutionize various industries.</h3>
+<h3 align="center">I believe in the power of collaboration and welcome opportunities to work with diverse teams on innovative blockchain projects.</h3> <h3 align="center">If you have any exciting ideas or would like to collaborate, feel free to reach out!</h3>
 
 <p align="left"> <a href="https://twitter.com/surtigunjan" target="blank"><img src="https://img.shields.io/twitter/follow/surtigunjan?logo=twitter&style=for-the-badge" alt="surtigunjan" /></a> </p>
 
